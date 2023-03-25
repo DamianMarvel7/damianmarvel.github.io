@@ -6,19 +6,19 @@
 	var projectsArray = [
 		{
 			"id": "projectTykOperator",
-			"url": "https://github.com/TykTechnologies/tyk-operator"
+			"url": "https://github.com/DamianMarvel7/Recommendation"
 		},
 		{
 			"id": "projectCloudixia",
-			"url": "https://ajtima.com"
+			"url": "https://github.com/DamianMarvel7/Customer-Segmentation"
 		},
 		{
 			"id": "projectServ",
-			"url": "https://www.getserv.io"
+			"url": "https://github.com/DamianMarvel7/spaceship"
 		},
 		{
 			"id": "projectSedkodes",
-			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
+			"url": "https://github.com/DamianMarvel7/Default-Prediction"
 		}
 	]
 
