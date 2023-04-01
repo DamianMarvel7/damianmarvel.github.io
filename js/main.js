@@ -19,6 +19,10 @@
 		{
 			"id": "projectSedkodes",
 			"url": "https://github.com/DamianMarvel7/Default-Prediction"
+		},
+		{
+			"id": "projectRFM",
+			"url": "https://github.com/DamianMarvel7/RFM-Analysis"
 		}
 	]
 
