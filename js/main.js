@@ -5,6 +5,10 @@
 
 	var projectsArray = [
 		{
+			"id": "earth",
+			"url": "https://github.com/DamianMarvel7/Earthquake-Dashboard"
+		},
+		{
 			"id": "projectTykOperator",
 			"url": "https://github.com/DamianMarvel7/Recommendation"
 		},
