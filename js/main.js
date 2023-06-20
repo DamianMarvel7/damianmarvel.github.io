@@ -14,7 +14,7 @@
 		},
 		{
 			"id": "projectCloudixia",
-			"url": "https://github.com/DamianMarvel7/Customer-Segmentation"
+			"url": "https://github.com/DamianMarvel7/Passenger-Satisfaction"
 		},
 		{
 			"id": "projectServ",
