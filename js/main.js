@@ -27,7 +27,12 @@
 		{
 			"id": "projectRFM",
 			"url": "https://github.com/DamianMarvel7/RFM-Analysis"
+		},
+		{
+			"id": "projectDL",
+			"url": "https://www.kaggle.com/code/damianmarvel/fruit-classification"
 		}
+
 	]
 
 	projectsArray.forEach(element => {
