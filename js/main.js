@@ -31,7 +31,11 @@
 		{
 			"id": "projectDL",
 			"url": "https://www.kaggle.com/code/damianmarvel/fruit-classification"
-		}
+		},
+		{
+			"id": "projectDL",
+			"url": "https://www.kaggle.com/code/damianmarvel/fruit-classification"
+		},
 
 	]
 
