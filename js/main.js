@@ -36,6 +36,10 @@
 			"id": "projectDL",
 			"url": "https://www.kaggle.com/code/damianmarvel/fruit-classification"
 		},
+		{
+			"id": "projectRS",
+			"url": "https://github.com/DamianMarvel7/Travel-Recommender/tree/main"
+		},
 	
 	]
 
