@@ -945,14 +945,17 @@ body.offcanvas {
     .work-menu span a.active {
       color: #2c98f0; }
 
+
+
 .project {
   background-size: cover;
-  /* background-position: center center; */
+  background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  height: 300px;
+  height: 350px;
   width: 100%;
-  display: block;
+  display: flex;
+  align-items: flex-end; /* Aligns the text to the bottom */
   margin-bottom: 30px; }
   .project .desc {
     position: absolute;
@@ -1508,12 +1511,5 @@ body.offcanvas {
   background: rgba(0, 0, 0, 0.2);
 }
 
-.project {
-  height: 350px; /* Or any specific height you prefer */
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover; /* This is the key property */
-  display: flex;
-  align-items: flex-end; /* Aligns the text to the bottom */
-}
+
 
