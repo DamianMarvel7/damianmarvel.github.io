@@ -1507,3 +1507,13 @@ body.offcanvas {
 .transparent-overlay {
   background: rgba(0, 0, 0, 0.2);
 }
+
+.project {
+  height: 350px; /* Or any specific height you prefer */
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; /* This is the key property */
+  display: flex;
+  align-items: flex-end; /* Aligns the text to the bottom */
+}
+
