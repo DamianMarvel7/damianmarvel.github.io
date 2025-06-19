@@ -945,7 +945,12 @@ body.offcanvas {
     .work-menu span a.active {
       color: #2c98f0; }
 
-
+      .project {
+        height: 350px !important;
+        max-height: 350px !important;
+        background-size: cover;
+        background-position: center center;
+      }
 
 .project {
   background-size: cover;
